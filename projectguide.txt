@@ -17,3 +17,7 @@ password: Foodxproject
 
 
 github desktop.
+--------------------
+connection:
+db.js - npm start (connected to DB)
+client - npm start (for frontend connection)
